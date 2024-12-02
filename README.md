@@ -1,4 +1,4 @@
-<h2>고등학생 Front End 개발자 박세빈입니다.</h2>
+<h1>Hi, I'm 박세빈.</h1>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
