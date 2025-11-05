@@ -4,14 +4,3 @@
 개발을 통해 사람들을 돕는 것이 저의 목표입니다. <br>
 현재 대구소프트웨어마이스터고등학교에 재학중입니다.
 
----
-
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/tpqls774"
-  width="500"
-  height="300"
-/>
-</a>
-
