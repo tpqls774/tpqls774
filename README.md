@@ -9,7 +9,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> stats </h2> <br> 
 
 <div style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tpqls774&theme=dark&show_icons=true" alt="bestdevmgp's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tpqls774&theme=dark&show_icons=true" alt="bestdevpsb's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpqls774&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000">
 </div>
 
