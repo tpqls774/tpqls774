@@ -15,8 +15,9 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br> 
-    <div style="text-align: left;">
-      <a href=mailto:tpqls774@gmail.com>
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpqls774@gmail.com">
-      </a>
-</div><br> 
+    <ul>
+      <li>email: devsebin774@gmail.com</li>
+      <li>linkedIn: <a href="https://www.linkedin.com/in/sebin-park-dev/">sebin-park-dev</a></li>
+    </ul>
+</div><br>
+
